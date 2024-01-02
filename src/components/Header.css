@@ -1,0 +1,79 @@
+@media (prefers-reduced-motion: no-preference) {
+    .elementOne {
+      animation: elementOneSpin infinite 10s linear;
+    }
+  }
+  
+  @keyframes elementOneSpin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+
+  @media (prefers-reduced-motion: no-preference) {
+    .elementTwo {
+      animation: elementTwoSpin infinite 15s linear;
+    }
+  }
+  
+  @keyframes elementTwoSpin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(-360deg);
+    }
+  }
+
+
+  @media (prefers-reduced-motion: no-preference) {
+    .elementThree {
+      animation: elementThreeSpin infinite 10s linear;
+    }
+  }
+  
+  @keyframes elementThreeSpin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+
+  @media (prefers-reduced-motion: no-preference) {
+    .elementFour {
+      animation: elementFourSpin infinite 5s linear;
+    }
+  }
+  
+  @keyframes elementFourSpin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(-360deg);
+    }
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .elementFive {
+      animation: elementFiveSpin infinite 15s linear;
+    }
+  }
+  
+  @keyframes elementFiveSpin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+ 
