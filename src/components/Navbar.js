@@ -20,6 +20,7 @@ function Navbar() {
       <AnchorLink href="#About">About</AnchorLink>
       <AnchorLink href="#Projects">Projects</AnchorLink>
       <AnchorLink href="#Skills">Skills</AnchorLink>
+      <AnchorLink href="#Experience">Experience</AnchorLink>
       <AnchorLink href="#Contact">Contact</AnchorLink>
     </div>
   );
