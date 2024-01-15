@@ -12,12 +12,13 @@ function Header() {
       className="App-header"
       style={{
         display: "flex",
+        flexWrap:"wrap",
         justifyContent: "space-between",
         flexDirection: "row",
         alignItems: "baseline",
-        margin: "0 auto",
         padding: "5rem 5rem 2rem 5rem",
         backgroundColor: "#2463EB",
+        maxWidth:"1400px",
       }}
     >
       <img
@@ -41,7 +42,7 @@ function Header() {
       <img
         src={whitePillar}
         className="elementFour"
-        style={{ height: "200px" }}
+        style={{ height: "200px"}}
         alt="logo"
       />
       <img

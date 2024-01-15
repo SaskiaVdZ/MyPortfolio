@@ -10,21 +10,26 @@ function Experience() {
         flexDirection: "column",
         alignItems: "center",
         backgroundColor: "#EACFC4",
-        padding: "50px",
+        padding: "10px",
+        width: "100%",
+        maxWidth: "1400px",
+        minWidth: "320px",
       }}
     >
       <h1>Experience</h1>
       <div
-        className="containerWork"
+        className="parent"
         style={{
           display: "flex",
+          flexWrap: "wrap",
           flexDirection: "row",
-          justifyContent: "space-evenly",
-          alignItems: "top",
+          justifyContent: "center",
+          alignContent: "space-around",
           listStyleType: "none",
+          
         }}
       >
-        <div>
+        <div className="child">
           <ul
             style={{
               listStyleType: "none",
@@ -92,7 +97,7 @@ function Experience() {
           </ul>
         </div>
 
-        <div>
+        <div className="child">
           <ul
             style={{
               listStyleType: "none",

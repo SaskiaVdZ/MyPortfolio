@@ -11,9 +11,13 @@ function About() {
         flexDirection: "column",
         alignItems: "center",
         backgroundColor: "#EACFC4",
-        padding: "0rem 5rem 0rem 5rem",
+        padding: "0rem 5rem",
+        width: "100%",
+        maxWidth: "1400px",
+        minWidth: "320px",
       }}
     >
+      
       <h1>
         Hi! My name is Saskia, and I am currently studying to become a front-end
         developer at Sundsgården folkhögskola:{" "}

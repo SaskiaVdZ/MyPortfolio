@@ -5,12 +5,18 @@ function Skills() {
       className="containerSkills"
       style={{
         display: "flex",
+        flexWrap: "wrap",
         flexDirection: "column",
         alignItems: "center",
         backgroundColor: "#EACFC4",
-        padding: "50px",
+        padding: "2rem",
+        width: "100%",
+        maxWidth: "1400px",
+        minWidth: "320px",
       }}
     >
+      <blockquote>
+      <q>I am still learning</q> - Michelangelo</blockquote>
       <h1>Skills</h1>
       <ul
         style={{
@@ -25,6 +31,8 @@ function Skills() {
         <li>Leadership, Mentoring and Education</li>
         <li>Photoshop, Illustrator, InDesign</li>
         <li>Google Suite</li>
+        <li>Design thinking</li>
+        <li>Graphic design</li>
       </ul>
     </div>
   );

@@ -4,6 +4,14 @@
   text-align: center;
 }
 
+body {
+  height: 100vh;
+  color:  rgb(231, 74, 74);
+  width: 100%;
+  margin: 0 auto;
+}
+
+
 a:link {
   color: darkblue;
   font-size: 40px;
@@ -24,11 +32,19 @@ h1 {
   font-family: "Lato", sans-serif;
 }
 
+q, blockquote{
+  color: rgb(231, 74, 74);
+  font-size: 40px;
+  font-weight: 400;
+  font-family: "Lato", sans-serif;
+}
+
 p {
   color: #2463eb;
   font-size: 30px;
   font-weight: 700;
   font-family: "Lato", sans-serif;
+  white-space: pre-line;
 }
 
 .nothingYet {
@@ -38,12 +54,19 @@ p {
 }
 
 
-body {
-  display: grid;
-  height: 100vh;
-  place-items: center;
-  width: 100%;
+
+
+ul {
+  color: #2463eb;
+  font-size: 30px;
+  font-weight: 700;
+  font-family: "Lato", sans-serif;
+  margin-left: 2rem;
+  margin-right: 2rem;
 }
 
+.child {
+  flex-basis: 100%;
+}
 
 
