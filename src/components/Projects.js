@@ -1,4 +1,5 @@
 import "../App.css";
+import "./Projects.css";
 import Bhromaon from "../images/Bhromaon.png";
 import Genesis from "../images/Genesis.png";
 import ExpenseTracker from "../images/ExpenseTracker.png";
@@ -6,35 +7,11 @@ import Imaginarium2 from "../images/Imaginarium2.png";
 
 function Projects() {
   return (
-    <div
-      style={{
-        display: "flex",
-        flexWrap: "wrap",
-        flexDirection: "column",
-        alignItems: "center",
-        backgroundColor: "#EACFC4",
-        maxWidth: "1400px",
-        width: "100%",
-        minWidth: "320px",
-      }}
-    >
+    <div id="Projects"
+    className="containerProjects">
       <h1>Projects</h1>
-      <div
-        id="Projects"
-        className="containerAbout"
-        style={{
-          display: "flex",
-          flexWrap:"wrap",
-          justifyContent: "center",
-          flexDirection: "row",
-          width: "100%",
-          maxWidth: "1400px",
-          minWidth: "320px",
-          alignItems: "baseline",
-        }}
-      >
-        
-        <a
+      <div className="containerProjectLinks" >
+        <a className="projectLink"
           href="https://saskiavdz.github.io/Bhroman-travel/"
           target="_blank"
           rel="noreferrer"
@@ -111,22 +88,16 @@ function Projects() {
       </div>
 
 
-      <div className="TextHolder"
-        style={{
-          display: "flex",
-          flexWrap:"wrap",
-          justifyContent: "center",
-          flexDirection: "column",
-        }}
+      <div className="containerProjectDescriptions"
+        
         >
-          <div className="ProjectDescription" style={{
+          <div className="ProjectDescription" 
+          style={{
           margin: "2rem",
           backgroundColor: "#f2e2db",
           borderRadius: "10px",
           padding: "2rem", 
           textAlign: "left",
-          maxWidth: "1400px",
-          minWidth: "320px",
          }}> 
           <p>01 Bhromaon Travel</p>
         <p>This project focused on making a fully responsive site that incorporated the basics of website development within a narrow timeline.
@@ -148,8 +119,6 @@ function Projects() {
           borderRadius: "10px",
           padding: "2rem", 
           textAlign: "left",
-          maxWidth: "1400px",
-          minWidth: "320px",
         }}> 
         <p>02 Javascript assignment - Expense Tracker App</p>
         <p>an object called account that should hold all of our logic. a function called menu 
@@ -181,8 +150,7 @@ function Projects() {
           borderRadius: "10px",
           padding: "2rem", 
           textAlign: "left",
-          maxWidth: "1400px",
-          minWidth: "320px",
+
         }}> 
         
         <p>03 Genesis Portfolio</p>
@@ -192,9 +160,6 @@ function Projects() {
         <p>The project was created from scratch based on a design in Figma. The project also links between three separate pages on the website. This project was good practice for making separate pages of a site look cohesive and how to use flexbox and grids in the most optimal ways in order for the site to look good on all screen sizes.</p>
         </div>
 
-       
-
-       
     </div>
   );
 }

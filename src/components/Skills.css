@@ -1,0 +1,11 @@
+.containerSkills {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+        padding: 2rem;
+}
+
+ul {
+    list-style-type: none;
+  }

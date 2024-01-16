@@ -9,17 +9,8 @@ import "./Header.css";
 function Header() {
   return (
     <header
-      className="App-header"
-      style={{
-        display: "flex",
-        flexWrap:"wrap",
-        justifyContent: "space-between",
-        flexDirection: "row",
-        alignItems: "baseline",
-        padding: "5rem 5rem 2rem 5rem",
-        backgroundColor: "#2463EB",
-        maxWidth:"1400px",
-      }}
+      className="containerHeader"
+      
     >
       <img
         src={whiteFrame}

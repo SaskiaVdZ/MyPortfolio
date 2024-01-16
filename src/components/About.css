@@ -1,0 +1,7 @@
+.containerAbout {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+        padding: 2rem 5rem;
+      }

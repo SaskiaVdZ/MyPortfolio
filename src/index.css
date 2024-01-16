@@ -1,5 +1,9 @@
 body {
-  margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+    margin: 0 auto;
+    display: flex;
+    place-items: center;
+    min-width: 320px;
+    background-color: #f2e2db;
 }

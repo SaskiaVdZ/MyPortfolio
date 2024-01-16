@@ -1,0 +1,14 @@
+.containerNavbar {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;   
+}
+
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 2rem 5rem;
+    background-color: #2463EB;
+}

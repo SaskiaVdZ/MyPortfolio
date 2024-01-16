@@ -1,3 +1,13 @@
+.containerHeader {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #2463EB;
+  padding: 5rem 5rem 2rem 5rem;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .elementOne {
     animation: elementOneSpin infinite 10s linear;
@@ -72,3 +82,6 @@
     transform: rotate(360deg);
   }
 }
+
+
+

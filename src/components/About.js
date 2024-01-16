@@ -1,4 +1,5 @@
 import "../App.css";
+import "./About.css";
 import PortraitOne from "../images/PortraitOne.jpg";
 
 function About() {
@@ -6,16 +7,6 @@ function About() {
     <div
       id="About"
       className="containerAbout"
-      style={{
-        display: "flex",
-        flexDirection: "column",
-        alignItems: "center",
-        backgroundColor: "#EACFC4",
-        padding: "0rem 5rem",
-        width: "100%",
-        maxWidth: "1400px",
-        minWidth: "320px",
-      }}
     >
       
       <h1>
@@ -54,7 +45,7 @@ function About() {
         approximately 20 years ago. In my spare time I like to read, write,
         draw, do yoga and walk in nature with my dog.
       </h1>
-    </div>
+      </div>
   );
 }
 
