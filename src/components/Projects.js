@@ -9,7 +9,7 @@ function Projects() {
   return (
     <div id="Projects"
     className="containerProjects">
-      <h1>Projects</h1>
+      <h2>Projects</h2>
       <div className="containerProjectLinks" >
         <a className="projectLink"
           href="https://saskiavdz.github.io/Bhroman-travel/"
@@ -91,15 +91,9 @@ function Projects() {
       <div className="containerProjectDescriptions"
         
         >
-          <div className="ProjectDescription" 
-          style={{
-          margin: "2rem",
-          backgroundColor: "#f2e2db",
-          borderRadius: "10px",
-          padding: "2rem", 
-          textAlign: "left",
-         }}> 
-          <p>01 Bhromaon Travel</p>
+          <div className="projectDescription" 
+          > 
+          <h3>01 Bhromaon Travel</h3>
         <p>This project focused on making a fully responsive site that incorporated the basics of website development within a narrow timeline.
         </p>
         <p>Built on: HTML, CSS, Sass, Figma</p>
@@ -113,14 +107,8 @@ function Projects() {
         and having the page be complete with all sections, information, and functionality.</p>
         </div>
        </div>
-       <div className="ProjectDescription" style={{
-          margin: "2rem",
-          backgroundColor: "#f2e2db",
-          borderRadius: "10px",
-          padding: "2rem", 
-          textAlign: "left",
-        }}> 
-        <p>02 Javascript assignment - Expense Tracker App</p>
+       <div className="projectDescription"> 
+        <h3>02 Javascript assignment - Expense Tracker App</h3>
         <p>an object called account that should hold all of our logic. a function called menu 
         that should display the different choices for the user and based on the users choice 
         show the correct method/property from the account object. In this assignment you should 
@@ -143,17 +131,10 @@ function Projects() {
         You do not need to do any CSS or HTML in this assignment, it should only contain JavaScript.</p>
       </div>
       
-        <div className="ProjectDescription"
-        style={{
-          margin: "2rem",
-          backgroundColor: "#f2e2db",
-          borderRadius: "10px",
-          padding: "2rem", 
-          textAlign: "left",
-
-        }}> 
+        <div className="projectDescription"
+        > 
         
-        <p>03 Genesis Portfolio</p>
+        <h3>03 Genesis Portfolio</h3>
         <p>This project focused on creating a layout for a portfolio of photographs and using Google Maps.
         Note: fully responsive design. Three-page website.</p>
         <p>Built on: HTML, CSS, Figma, Google Maps API</p>

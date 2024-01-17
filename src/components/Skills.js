@@ -7,9 +7,10 @@ function Skills() {
       id="Skills"
       className="containerSkills"
     >
-      <blockquote>
-      <q>I am still learning</q> - Michelangelo</blockquote>
-      <h1>Skills</h1>
+      
+      <blockquote>I am still learning
+      <span>Michelangelo</span></blockquote>
+      <h2>Skills</h2>
       <ul>
         <li>
           HTML, CSS, Sass, JavaScript, React, Figma, Bootstrap, Git/GitHub,

@@ -1,7 +1,7 @@
 .containerNavbar {
     position: sticky;
     position: -webkit-sticky;
-    top: 0;   
+    top: 0; 
 }
 
 .nav {
@@ -10,5 +10,29 @@
     flex-direction: row;
     justify-content: space-around;
     padding: 2rem 5rem;
-    background-color: #2463EB;
+    background-color: #779def;
 }
+
+@media screen and (max-width: 768px){
+    .nav {
+            
+            max-width: 768px;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-content: left;
+            
+    }
+}
+
+
+@media screen and (max-width: 320px){
+    .nav {
+            max-width: 320px;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-content: center;
+    }
+}
+

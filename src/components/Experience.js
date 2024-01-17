@@ -4,12 +4,12 @@ import "./Experience.css";
 function Experience() {
   return (
     <div id="Experience" className="containerExperience">
-      <h1>Experience</h1>
+      <h2>Experience</h2>
       <div className="parent">
         <div className="child">
+        <h3>Work experience</h3>
           <ul>
             {" "}
-            <h2>Workexperience</h2>
             <li>Self-employed at FIK design courses</li>
             <li>2017 – now </li>
             <li>
@@ -59,9 +59,9 @@ function Experience() {
         </div>
 
         <div className="child">
+        <h3>Education</h3>
           <ul>
             {" "}
-            <h2>Education</h2>
             <li>Sundsgården folkhögskola</li>
             <li>2023 </li>
             <li>Tech for Women, Front end development, Certification</li>

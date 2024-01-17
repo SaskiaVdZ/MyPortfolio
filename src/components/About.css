@@ -3,5 +3,8 @@
         flex-wrap: wrap;
         flex-direction: column;
         align-items: center;
-        padding: 2rem 5rem;
+        padding: 2rem 2rem;
+        background-color: #dedcff;
+        padding-top: calc(48px + 64px);
+      
       }
