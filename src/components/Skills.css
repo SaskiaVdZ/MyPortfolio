@@ -18,18 +18,18 @@ ul {
       margin:50px auto;
       font-family:Open Sans;
       font-style:italic;
-      color: #2463eb;
+      color: #134ac1;
       padding:1.2em 30px 1.2em 75px;
-      border-left:8px solid #2463eb;
+      border-left:8px solid #134ac1;
       line-height:1.6;
       position: relative;
-      background:#EDEDED;
+      background:#9CE5CA;
     }
     
     blockquote::before{
       font-family:Arial;
       content: "\201C";
-      color:#2463eb;
+      color:#134ac1;
       font-size:4em;
       position: absolute;
       left: 10px;
@@ -42,7 +42,7 @@ ul {
     
     blockquote span{
       display:block;
-      color:#2463eb;
+      color:#134ac1;
       font-style: normal;
       font-weight: bold;
       margin-top:1em;

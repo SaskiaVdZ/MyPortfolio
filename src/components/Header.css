@@ -5,18 +5,12 @@
   justify-content: space-between;
   background-color: #2463EB;
   padding: 5rem 6rem 5rem 6rem;
+  max-width: 1400px;
 }
 
 @media screen and (max-width: 320px){
   .containerHeader {
           max-width: 320px;
-          width: 100%;
-          display: flex;
-          flex-wrap: wrap;
-          flex-direction: row;
-          justify-content: space-between;
-          background-color: #2463EB;
-          padding: 5rem 6rem 5rem 6rem;
   }
 }
 

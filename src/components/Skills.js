@@ -7,7 +7,6 @@ function Skills() {
       id="Skills"
       className="containerSkills"
     >
-      
       <blockquote>I am still learning
       <span>Michelangelo</span></blockquote>
       <h2>Skills</h2>
