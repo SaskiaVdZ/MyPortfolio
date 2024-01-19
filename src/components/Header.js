@@ -1,8 +1,8 @@
-import whiteFrame from "../images/whiteFrame.png";
-import pillarGreen from "../images/pillarGreen.png";
-import pinkFrame from "../images/pinkFrame.png";
-import whitePillar from "../images/whitePillar.png";
-import stairsLong from "../images/stairsLong.png";
+import SubtractOne from "../images/SubtractOne.svg";
+import SubtractTwo from "../images/Subtract.Two.svg";
+import SubtractThree from "../images/Subtract.Three.svg";
+import UnionFour from "../images/UnionFour.svg";
+import SubtractFour from "../images/SubtractFour.svg";
 import "../App.css";
 import "./Header.css";
 
@@ -13,31 +13,31 @@ function Header() {
       
     >
       <img
-        src={whiteFrame}
+        src={SubtractOne}
         className="elementOne"
         style={{ height: "200px" }}
         alt="logo"
       />
       <img
-        src={pillarGreen}
+        src={SubtractTwo}
         className="elementTwo"
         style={{ height: "200px" }}
         alt="logo"
       />
       <img
-        src={pinkFrame}
+        src={SubtractThree}
         className="elementThree"
         style={{ height: "200px" }}
         alt="logo"
       />
       <img
-        src={whitePillar}
+        src={SubtractFour}
         className="elementFour"
         style={{ height: "200px"}}
         alt="logo"
       />
       <img
-        src={stairsLong}
+        src={UnionFour}
         className="elementFive"
         style={{ height: "200px" }}
         alt="logo"

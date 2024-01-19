@@ -1,3 +1,4 @@
+
 .containerProjects {
     display: flex;
     flex-wrap: wrap;
@@ -15,10 +16,21 @@
 }
 
 .projectDescription {
-        margin: 2rem;
-        background-color: #dedcff;
-        border-radius: 10px;
+        background-color: #CDECFF;
         padding: 2rem;
         text-align: left;  
 }
 
+/*
+.linkProject{
+    
+        background-image: Bhromaon.png;
+        background-size: 170%;
+        height: 300;
+        width: 300px;
+        text-align: center;
+        line-height: 300px;
+        margin: 10px;
+        font-size: 72px;
+}
+*/

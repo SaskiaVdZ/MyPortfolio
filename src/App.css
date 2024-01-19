@@ -16,16 +16,16 @@
 
  
 a, .fa-heart {
-  color: #5fd56e;
+  color: #00449E;
 }
 
 .fa-brands {
-  color: darkblue;
+  color: #00449E;
 }
 
 
 a:link {
-  color: darkblue;
+  color: #E7040F;
   font-size: 40px;
   font-weight: 700;
   font-family: "Lato", sans-serif;
@@ -34,11 +34,11 @@ a:link {
 }
 
 a:hover, .fa-brands:hover {
-  color: rgb(231, 74, 74);
+  color: #00449E (231, 74, 74);
 }
 
 h1 {
-  color: #2463eb;
+  color: #00449E;
   font-size: 90px;
   font-weight: 700;
   font-family: "Lato", sans-serif;
@@ -48,7 +48,7 @@ h1 {
 } 
 
 h2 {
-  color: #2463eb;
+  color: #00449E;
   font-size: 40px;
   font-weight: 700;
   font-family: "Lato", sans-serif;
@@ -56,7 +56,7 @@ h2 {
 
 
 h3, p {
-  color: #2463eb;
+  color: #00449E;
   font-size: 30px;
   font-weight: 700;
   font-family: "Lato", sans-serif;
@@ -76,7 +76,7 @@ p {
 }
 
 ul {
-  color: #2463eb;
+  color: #00449E;
   font-size: 30px;
   font-weight: 700;
   font-family: "Lato", sans-serif;
@@ -91,5 +91,25 @@ li {
 
 i {
   margin: 0.5rem;
+}
+
+.textContact {
+  color: #E7040F;
+}
+
+.linkProject {
+  color:#E7040F;
+}
+
+
+.linkProject:hover {
+  opacity: 0.5;
+  transition: opacity .5s;
+  cursor: pointer;
+  color: #9EEBCF;
+}
+
+.linkAbout {
+  color: #fbfbfb;
 }
 

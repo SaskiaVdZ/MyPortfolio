@@ -4,7 +4,7 @@ import "./Contact.css";
 function Contact() {
   return (
     <div id="Contact" className="containerContact">
-      <h2>Contact</h2>
+      <h2 className="textContact">Contact</h2>
 
       <div className="containerIcons">
         <a
@@ -25,7 +25,7 @@ function Contact() {
         </a>
       </div>
       <div>
-        <p>
+        <p className="textContact">
           Made with<i className="fa-solid fa-heart"></i>in React by Saskia
         </p>
       </div>

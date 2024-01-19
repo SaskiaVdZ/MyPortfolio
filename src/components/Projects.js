@@ -11,14 +11,14 @@ function Projects() {
     className="containerProjects">
       <h2>Projects</h2>
       <div className="containerProjectLinks" >
-        <a className="projectLink"
+        <a className="linkProject"
           href="https://saskiavdz.github.io/Bhroman-travel/"
           target="_blank"
           rel="noreferrer"
           style={{
             backgroundImage: "url(" + Bhromaon + ")", 
             backgroundSize: "170%",
-            borderRadius: "50%",
+           
             height: "300px",
             width: "300px",
             textAlign: "center",
@@ -32,6 +32,7 @@ function Projects() {
 
        
         <a
+        className="linkProject"
           href="https://saskiavdz.github.io/expenseTracker/"
           target="_blank"
           rel="noreferrer"
@@ -50,6 +51,7 @@ function Projects() {
           02
         </a>
         <a
+        className="linkProject"
           href="https://saskiavdz.github.io/GenesisPortfolio-lesson11/"
           target="_blank"
           rel="noreferrer"
@@ -67,7 +69,7 @@ function Projects() {
         >
           03
         </a>
-        <a
+        <a className="linkProject"
           href="https://saskiavdz.github.io/form-lesson7/"
           target="_blank"
           rel="noreferrer"

@@ -11,17 +11,18 @@ function About() {
         <h1>Hi! My name is Saskia.</h1> 
         <h2> I am currently studying to become a front-end
         developer at Sundsgården folkhögskola:{" "}
-        <a
+        <a className="linkAbout"
           href="https://sundsgarden.se/utbildningar-kurser/langa-kurser/distanskurser/it-som-framtidsyrke/"
           target="_blank"
           rel="noreferrer"
-          style={{ color: "#122245", textDecoration: "none" }}
+          
         >
           IT - Front end Developer for women
         </a>
         , a fulltime accelerated vocational course.
       </h2>
       <img
+        className="imagePortrait"
         src={PortraitOne}
         style={{ borderRadius: "50%", height: "300px", width: "300px" }}
         alt={"Portrait"}
