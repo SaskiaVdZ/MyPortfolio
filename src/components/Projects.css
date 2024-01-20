@@ -4,8 +4,10 @@
     flex-wrap: wrap;
     flex-direction: column;
     align-items: center;
-    background-color:#F5F5F5;
+    background-color: #CDECFF;
     padding-top: calc(48px + 64px);
+    padding-left: 4rem;
+    padding-right: 4rem;
 }
 
 
@@ -17,7 +19,6 @@
 }
 
 .projectDescription {
-        background-color: #CDECFF;
         padding: 2rem;
         text-align: left;  
 }
