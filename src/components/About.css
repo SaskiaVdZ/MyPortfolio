@@ -8,4 +8,10 @@
         padding-top: calc(48px + 64px);
       }
 
+
+      @media screen and (max-width: 768px){
+        .containerAbout{  
+                padding-top: 48px;
+        }
+    }
   

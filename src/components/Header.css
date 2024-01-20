@@ -12,7 +12,9 @@
   .containerHeader {
           max-width: 320px;
   }
+  
 }
+
 
 
 @media (prefers-reduced-motion: no-preference) {

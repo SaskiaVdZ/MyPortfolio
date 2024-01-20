@@ -91,6 +91,16 @@ i {
   color:#E7040F;
 }
 
+.linkAbout {
+  color:#E7040F;
+  cursor: pointer;
+}
+
+.linkAbout:hover  {
+  color:#E7040F;
+  cursor: pointer;
+  color: #FFDFDF;
+}
 
 .linkProject:hover {
   opacity: 0.5;
@@ -98,5 +108,16 @@ i {
   cursor: pointer;
   color: #9EEBCF;
 }
+
+
+
+@media screen and (max-width: 768px) {
+   p, li { font-size: 20px;}
+  h1, h2, h3, a:link  { font-size: 30px;}
+  h1 { font-size: 40px;}
+}
+
+
+
 
 
