@@ -8,7 +8,7 @@ function Navbar() {
     <div className="containerNavbar">
       <div className="nav"
       >
-      <AnchorLink href="#About">About</AnchorLink>
+      <AnchorLink className="linkNav" href="#About">About</AnchorLink>
       <AnchorLink href="#Projects">Projects</AnchorLink>
       <AnchorLink href="#Skills">Skills</AnchorLink>
       <AnchorLink href="#Experience">Experience</AnchorLink>

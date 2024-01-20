@@ -5,6 +5,7 @@
         align-items: center;
         padding: 2rem;
         background-color: #F5F5F5;
+        padding-top: calc(48px + 64px);
 }
 
 ul {
@@ -46,4 +47,5 @@ ul {
       font-style: normal;
       font-weight: bold;
       margin-top:1em;
+      
     }

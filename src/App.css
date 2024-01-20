@@ -7,20 +7,9 @@
   min-width: 320px;
 }
 
-/*
-:root {
-  width: 100%;
-  max-width: 1400px;
-  margin: 0 auto;
-}*/
-
- 
-a, .fa-heart {
-  color: #00449E;
-}
 
 .fa-brands {
-  color: #00449E;
+  color: #E7040F;
 }
 
 
@@ -34,8 +23,9 @@ a:link {
 }
 
 a:hover, .fa-brands:hover {
-  color: #00449E (231, 74, 74);
+  color: #00449E;
 }
+
 
 h1 {
   color: #00449E;
@@ -109,7 +99,4 @@ i {
   color: #9EEBCF;
 }
 
-.linkAbout {
-  color: #fbfbfb;
-}
 
