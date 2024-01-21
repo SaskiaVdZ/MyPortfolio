@@ -11,7 +11,19 @@
 
       @media screen and (max-width: 768px){
         .containerAbout{  
-                padding-top: 48px;
+                padding-top: 80px;
         }
     }
+
+    @media screen and (max-width: 375px){
+      .containerAbout{  
+              padding-top: 0px;
+      }
+  }
+
+    @media screen and (max-width: 320px){
+      .containerAbout{  
+              padding-top: 0px;
+      }
+  }
   

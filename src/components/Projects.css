@@ -24,18 +24,15 @@
 }
 
 
-
-
-/*
 .linkProject{
-    
-        background-image: Bhromaon.png;
+    background-image: url("../images/Bhromaon.png");
         background-size: 170%;
-        height: 300;
+        height: 300px;
         width: 300px;
+        border-radius: 50%;
         text-align: center;
         line-height: 300px;
         margin: 10px;
         font-size: 72px;
 }
-*/
+

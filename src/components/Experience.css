@@ -15,21 +15,34 @@
         flex-direction:row;
         justify-content: space-between;
         list-style-type: none;
-        padding: 2rem;
         text-align: left; 
         
 }
 
 .child {
-        max-width: 50%;
-        
-        
+        max-width: 50%;       
 }
+
+
+
+
 
 @media screen and (max-width: 425px){
         .parent  {
                 max-width: 425px;
                 display: flex;
                 flex-direction: column;
+        }
+}
+
+@media screen and (max-width: 468px){
+        .containerExperience {
+                padding-top: 0px;  
+        }
+}
+
+@media screen and (max-width: 320px){
+        .containerExperience {
+                padding-top: 40px;  
         }
 }

@@ -16,6 +16,7 @@ function Skills() {
           Visual Studios Code, Agile work
         </li>
         <li>Fluent in English, Swedish and Dutch</li>
+        <li>Good communication skills and not afraid to ask questions</li>
         <li>Leadership, Mentoring and Education</li>
         <li>Photoshop, Illustrator, InDesign</li>
         <li>Google Suite</li>

@@ -1,6 +1,5 @@
 import "../App.css";
 import "./Projects.css";
-import Bhromaon from "../images/Bhromaon.png";
 import Genesis from "../images/Genesis.png";
 import ExpenseTracker from "../images/ExpenseTracker.png";
 import Imaginarium2 from "../images/Imaginarium2.png";
@@ -16,14 +15,6 @@ function Projects() {
           target="_blank"
           rel="noreferrer"
           style={{
-            backgroundImage: "url(" + Bhromaon + ")", 
-            backgroundSize: "170%",
-           
-            height: "300px",
-            width: "300px",
-            textAlign: "center",
-            lineHeight: "300px",
-            margin: "10px",
             fontSize: "72px",
           }}
         > 
@@ -95,7 +86,7 @@ function Projects() {
         >
           <div className="projectDescription" 
           > 
-          <h3>01 Bhromaon Travel</h3>
+          <h2>01 Bhromaon Travel</h2>
         <p>This project focused on making a fully responsive site that incorporated the basics of website development within a narrow timeline.
         </p>
         <p>Built on: HTML, CSS, Sass, Figma</p>
@@ -110,7 +101,7 @@ function Projects() {
         </div>
        </div>
        <div className="projectDescription"> 
-        <h3>02 Javascript assignment - Expense Tracker App</h3>
+        <h2>02 Javascript assignment - Expense Tracker App</h2>
         <p>an object called account that should hold all of our logic. a function called menu 
         that should display the different choices for the user and based on the users choice 
         show the correct method/property from the account object. In this assignment you should 
@@ -136,7 +127,7 @@ function Projects() {
         <div className="projectDescription"
         > 
         
-        <h3>03 Genesis Portfolio</h3>
+        <h2>03 Genesis Portfolio</h2>
         <p>This project focused on creating a layout for a portfolio of photographs and using Google Maps.
         Note: fully responsive design. Three-page website.</p>
         <p>Built on: HTML, CSS, Figma, Google Maps API</p>
