@@ -21,6 +21,12 @@
       }
   }
 
+  @media screen and (max-width: 425px){
+        .containerAbout{  
+                padding-top: 0px;
+        }
+    }
+
     @media screen and (max-width: 320px){
       .containerAbout{  
               padding-top: 0px;

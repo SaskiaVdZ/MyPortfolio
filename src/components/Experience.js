@@ -8,52 +8,52 @@ function Experience() {
       <div className="parent">
         <div className="child">
           <ul>
-          <h2>Work experience</h2>
+          <li><h2>Work experience</h2></li>
             {" "}
             <li>Self-employed at FIK design courses</li>
-            <li>2017 – now </li>
+            <li>2017 	&#8212; now </li>
             <li>
               Preparatory interior architecture & design course online
             </li>
           </ul>
           <ul>
             <li>BOAB, Hällefors Bostads AB, Housing Association</li>
-            <li>2019 – 2021</li>
+            <li>2019 	&#8212; 2021</li>
             <li>Chairman</li>
           </ul>
           <ul>
             <li>Pihlskolan, Hällefors</li>
-            <li>2019 – 2020 </li>
+            <li>2019 	&#8212; 2020 </li>
             <li>Teacher SFI, Swedish for immigrants, Adult education</li>
           </ul>
           <ul>
             <li>Pihlskolan, Hällefors</li>
-            <li>2016 – 2019</li>
+            <li>2016 	&#8212; 2019</li>
             <li>Teacher SVA, Swedish as a second language, High School</li>
           </ul>
           <ul>
             <li>Hällefors Folkhögskola</li>
-            <li>2008 – 2015 </li>
+            <li>2008 	&#8212; 2015 </li>
             <li>Head teacher, Interior Architecture & Design</li>
           </ul>
           <ul>
             <li>Hällefors Folkhögskola</li>
-            <li>2007 – 2008</li>
+            <li>2007 	&#8212; 2008</li>
             <li>Teacher, Form & Design</li>
           </ul>
           <ul>
             <li>Hoganord Studios</li>
-            <li>2004 – 2009 </li>
+            <li>2004 	&#8212; 2009 </li>
             <li>Co-owner and designer, Graphic design & Web design</li>
           </ul>
           <ul>
             <li>KUUB design studio, Amsterdam</li>
-            <li>2001 – 2003 </li>
+            <li>2001 	&#8212; 2003 </li>
             <li>Co-owner and interior designer</li>
           </ul>
           <ul>
             <li>De Architect, Dutch architecture magazine</li>
-            <li>2001 – 2005</li>
+            <li>2001 	&#8212; 2005</li>
             <li>Freelance writer</li>
           </ul>
         </div>
@@ -61,7 +61,7 @@ function Experience() {
         <div className="child">
           
           <ul>
-          <h2>Education</h2>
+          <li><h2>Education</h2></li>
             {" "}
             <li>Sundsgården folkhögskola</li>
             <li>2023 </li>
@@ -84,7 +84,7 @@ function Experience() {
           </ul>
           <ul>
             <li>Gerrit Rietveld Academy, Amsterdam, Netherlands</li>
-            <li>1997 – 2001</li>
+            <li>1997 	&#8212; 2001</li>
             <li>
               Bachelor's degree in Interior Architecture & Spatial Design, 240
               credits, Cum Laude/With Honor
@@ -92,7 +92,7 @@ function Experience() {
           </ul>
           <ul>
             <li>Royal Academy of Arts in The Hague, Netherlands</li>
-            <li>1992 – 1996</li>
+            <li>1992 	&#8212; 1996</li>
             <li>Bachelor's degree in Free Arts, 240 credits</li>
           </ul>
           <ul>

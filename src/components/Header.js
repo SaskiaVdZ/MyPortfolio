@@ -15,31 +15,31 @@ function Header() {
       <img
         src={SubtractOne}
         className="elementOne"
-        style={{ height: "200px" }}
+        style={{ height: "200px", width: "200px" }}
         alt="logo"
       />
       <img
         src={SubtractTwo}
         className="elementTwo"
-        style={{ height: "200px" }}
+        style={{ height: "200px", width: "200px" }}
         alt="logo"
       />
       <img
         src={SubtractThree}
         className="elementThree"
-        style={{ height: "200px" }}
+        style={{ height: "200px", width: "200px" }}
         alt="logo"
       />
       <img
         src={SubtractFour}
         className="elementFour"
-        style={{ height: "200px"}}
+        style={{ height: "200px", width: "200px"}}
         alt="logo"
       />
       <img
         src={UnionFour}
         className="elementFive"
-        style={{ height: "200px" }}
+        style={{ height: "200px", width: "200px" }}
         alt="logo"
       />
     </header>

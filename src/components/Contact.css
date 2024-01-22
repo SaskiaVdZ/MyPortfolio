@@ -15,9 +15,15 @@
 
 
 .emailadress {
-        color:#E7040F;
+        color:#FFDFDF;
+        background-color: #00449E;
+        border-radius: 10px;
+        padding: 1rem 1.5rem;
 }
 
+
+
 .textFooter {
-        color:#E7040F;
+        color: #00449E;
+        padding-bottom: 2rem;
 }
