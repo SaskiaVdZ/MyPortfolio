@@ -136,11 +136,10 @@ function Projects() {
         <div className="projectDescription">
           <h2>03 Genesis Portfolio</h2>
           <p>
-            This project is a three page fully resonsive layout based on a
-            design in Figma, for a portfolio of photographs and using Google
-            Maps. This project was good practice learning how to use flexbox and
-            grids in the most optimal ways in order for the site to look good on
-            all screen sizes
+            This project is a three page kiosk mode layout based on a
+            design in Figma using Google Maps. This project was good practice learning how to use flexbox and
+            grids and also practiced using Sass, variables and mixins. A front end project for the course
+            tech for women at Sundsgården.
           </p>
           <p>Built on: HTML, CSS, Figma, Google Maps API</p>
         </div>
@@ -150,7 +149,8 @@ function Projects() {
             A fully responsive site made within a narrow timeline based on a
             design in Figma. This was a good challange in finding a balance
             between getting the page to look good and having the page be
-            complete with all sections, information, and functionality.
+            complete with all sections, information, and functionality. A front end project for the course
+            tech for women at Sundsgården.
           </p>
           <p>Built on: HTML, CSS, Sass, Figma</p>
         </div>
