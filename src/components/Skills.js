@@ -19,7 +19,6 @@ function Skills() {
         <li>Good communication skills and not afraid to ask questions</li>
         <li>Leadership, Mentoring and Education</li>
         <li>Photoshop, Illustrator, InDesign</li>
-        <li>Google Suite</li>
         <li>Design thinking</li>
         <li>Graphic design</li>
       </ul>

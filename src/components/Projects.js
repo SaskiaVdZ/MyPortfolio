@@ -11,7 +11,7 @@ function Projects() {
       <div className="containerProjectLinks">
         <a
           className="linkProject"
-          href="https://saskiavdz.github.io/form-lesson7/"
+          href="https://saskiavdz.github.io/Imaginarium_video/"
           target="_blank"
           rel="noreferrer"
           style={{
@@ -85,17 +85,17 @@ function Projects() {
         <div className="projectDescription">
           <h2>01 A game in React</h2>
           <p>
-            A drag and drop building game to spark your imagination. Become the
+            This is a 'drag and drop building' game to spark your imagination. Become the
             Architect of your own imaginary world.
           </p>
           <p>
-            This game was built as the final front end project for the course
-            tech for women at Sundsgården. We started of by deciding on a
-            functionality and coming up with a design idea. Then we sketched up
-            the general user flow and set up the basic project structure. After
+            It was built as the final front end project for the course
+            Tech for women at Sundsgården. We started of by deciding on a
+            functionality and then came up with a design. We then sketched
+            the general user flow and set up the basic project structure and made a protype in Figma. After
             that we divided the different features among the members of the team
             to get started with the logic. The team hade weekly checkin meetings
-            and communicated contineously on slack and Github projects.
+            and communicated continuously on Slack and Github Projects.
           </p>
           <p>
             {" "}
@@ -108,21 +108,20 @@ function Projects() {
             localStorage Reset button in game to return all elements to their
             respective starting position Axios React routes Private routes,
             require login, together with useParams hook React hooks useContect
-            useState useParams useEffect useNavigate
+            useState useParams useEffect useNavigate.
           </p>
           <p>
-            My contribution: I came up with the idea of the game and the design.
-            I made a prototype in Figma, the building elements and the drag and
+            My contribution: I made the building elements and the drag and
             drop function using the @use-gesture library. I also made the
-            profile page and the display of the user details.
+            profile page and the display of the user details, I came up with the idea of the game, the name and the design and made a prototype in Figma.
           </p>
-
+<p>Unfortunately is was not possible to deploy the project without losing the create account function, so I made a screen recording instead for now instead.</p>
           <p>
             This game was built by Diana Undén, Saskia van der Zanden, Maria
             Persson, Nadine Dawod and Mo Wei Wu.
           </p>
-
           <p>Built on: React Vite</p>
+         
         </div>
         <div className="projectDescription">
           <h2>02 Expense Tracker App</h2>
@@ -136,21 +135,17 @@ function Projects() {
         <div className="projectDescription">
           <h2>03 Genesis Portfolio</h2>
           <p>
-            This project is a three page kiosk mode layout based on a
-            design in Figma using Google Maps. This project was good practice learning how to use flexbox and
-            grids and also practiced using Sass, variables and mixins. A front end project for the course
-            tech for women at Sundsgården.
+            One of the first projects I did. Looking at it now I would have done a lot of things different to be honest; 
+            I think the code looks messy and unorganised. Semantic tags are missing and it's not responsive, because it wasn't part of the assigment. Doing this assignment we learned how to use Sass, using variables and mixins and how to use flexbox and
+            grids. A front end project for the Tech for women course at Sundsgården.
           </p>
-          <p>Built on: HTML, CSS, Figma, Google Maps API</p>
+          <p>Built on: HTML, CSS, Figma</p>
         </div>
         <div className="projectDescription">
           <h2>04 Bhromaon Travel</h2>
           <p>
-            A fully responsive site made within a narrow timeline based on a
-            design in Figma. This was a good challange in finding a balance
-            between getting the page to look good and having the page be
-            complete with all sections, information, and functionality. A front end project for the course
-            tech for women at Sundsgården.
+            The same here, this is one of the first projects I did. A fully responsive site made within a narrow timeline as part of a test, based on a
+            design in Figma. This was really good practice to stay calm under time pressure and just trying to get as much as possible done step by step. Another front end project for the Tech for women course at Sundsgården.
           </p>
           <p>Built on: HTML, CSS, Sass, Figma</p>
         </div>

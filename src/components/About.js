@@ -16,8 +16,11 @@ function About() {
           target="_blank"
           rel="noreferrer"
         >
-          IT - Front end Developer for women.
-        </a> I&#39;m currently learning Javascript and React and studying Flutter at The App brewery and Data Visualisation D3.js at the New York University.
+          IT/Tech for women - Front end Development.
+        </a>{" "}
+        I&#39;m currently learning React and studying Flutter at The App brewery
+        and looking forward to dive into Data Visualisation D3.js at the New
+        York University, shortly.
       </h2>
       <img
         className="imagePortrait"
@@ -26,16 +29,17 @@ function About() {
         alt={"Portrait"}
       />
       <p>
-        I am an experienced design professional with more than 20 years of teaching and mentoring experience and a degree in
-        both fine art and spatial design.
+        I am an experienced design professional with more than 20 years of
+        teaching and mentoring experience.
       </p>
       <p>
-        I consider myself a life-long learner, always hungry to study and learn more. I&#39;m
-        a creative problem solver and I like to make things
+        I consider myself a life-long learner, always hungry to study and learn
+        more. I&#39;m a creative problem solver and I like to make things
         understandable by turning complex stuff into mini bite-size bits and
-        steps. I&#39;m dedicated, structured, analytical, curious and not afraid to ask questions. I&#39;m hard
-        working; I won't leave things alone until they are solved. I love to
-        build and create in general but I especially love to create meaning and value.
+        steps. I&#39;m dedicated, structured, analytical, curious and not afraid
+        to ask questions. I can't leave things alone until they are solved and I
+        love to build and create in general but I especially love to create
+        meaning and value.
       </p>
       <p>
         I live in a small place called Sångshyttan, in Bergslagen, right in

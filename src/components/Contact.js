@@ -5,7 +5,6 @@ function Contact() {
   return (
     <div id="Contact" className="containerContact">
       <h2 className="textContact">Contact me at</h2>
-     
 
       <div className="containerIcons">
         <a
@@ -24,9 +23,6 @@ function Contact() {
         >
           <i className="fa-brands fa-linkedin"></i>
         </a>
-      </div>
-      <div className="containerEmail">
-        <p className="emailadress">my-whole-name-without-dots @gmail.com</p>
       </div>
       <div>
         <p className="textFooter">

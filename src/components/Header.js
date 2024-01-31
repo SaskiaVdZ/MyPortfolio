@@ -8,10 +8,7 @@ import "./Header.css";
 
 function Header() {
   return (
-    <header
-      className="containerHeader"
-      
-    >
+    <header className="containerHeader">
       <img
         src={SubtractOne}
         className="elementOne"
@@ -33,7 +30,7 @@ function Header() {
       <img
         src={SubtractFour}
         className="elementFour"
-        style={{ height: "200px", width: "200px"}}
+        style={{ height: "200px", width: "200px" }}
         alt="logo"
       />
       <img

@@ -1,34 +1,17 @@
 .containerNavbar {
-    position: sticky;
-    position: -webkit-sticky;
-    top: 0; 
-    z-index: 1;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  z-index: 1;
 }
 
 .nav {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: space-around;
-    padding: 2rem 5rem;
-    background-color: #FFDFDF;
-    
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 2rem 5rem;
+  background-color: #ffdfdf;
 }
 
-/*
-@media screen and (max-width: 768px){
-    .nav {  
-            max-width: 768px;
-            flex-flow: column wrap;
-    }
-}
-
-
-@media screen and (max-width: 320px){
-    .nav {
-            max-width: 320px;
-            flex-flow: column wrap;
-    }
-}
-*/
 

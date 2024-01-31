@@ -1,55 +1,48 @@
 .containerExperience {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        padding: 10px; 
-        background-color: #FF725C;    
-        padding-top: calc(48px + 64px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  background-color: #ff725c;
+  padding-top: calc(48px + 64px);
 }
 
-
-
 .parent {
-        display: flex;
-        flex-wrap: wrap;
-        flex-direction:row;
-        justify-content: space-between;
-        list-style-type: none;
-        text-align: left; 
-        
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+  text-align: left;
 }
 
 .child {
-        max-width: 50%;       
+  max-width: 50%;
 }
 
-
-
-
-
-@media screen and (max-width: 425px){
-        .parent  {
-                max-width: 425px;
-                display: flex;
-                flex-direction: column;
-                padding-top: 40px;
-        }
+@media screen and (max-width: 425px) {
+  .parent {
+    max-width: 425px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+  }
 }
 
-@media screen and (max-width: 468px){
-        .containerExperience {
-                padding-top: 0px;  
-        }
+@media screen and (max-width: 468px) {
+  .containerExperience {
+    padding-top: 0px;
+  }
 }
 
-@media screen and (max-width: 375px){
-        .containerExperience {
-                padding-top: 40px;  
-        }
+@media screen and (max-width: 375px) {
+  .containerExperience {
+    padding-top: 40px;
+  }
 }
 
-@media screen and (max-width: 320px){
-        .containerExperience {
-                padding-top: 40px;  
-        }
+@media screen and (max-width: 320px) {
+  .containerExperience {
+    padding-top: 40px;
+  }
 }
