@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.c9bb7e38.css",
-    "main.js": "/MyPortfolio/static/js/main.3bd78f30.js",
+    "main.css": "/MyPortfolio/static/css/main.961db261.css",
+    "main.js": "/MyPortfolio/static/js/main.f936b0b9.js",
     "static/js/787.d4aba7ab.chunk.js": "/MyPortfolio/static/js/787.d4aba7ab.chunk.js",
     "static/media/Genesis.png": "/MyPortfolio/static/media/Genesis.3b8f94110a2d7d90d8e4.png",
     "static/media/Bhromaon.png": "/MyPortfolio/static/media/Bhromaon.a6216479a1f65cf3ef26.png",
@@ -14,12 +14,12 @@
     "static/media/SubtractOne.svg": "/MyPortfolio/static/media/SubtractOne.6ff720fb4aea51eb02adb06705d87c18.svg",
     "static/media/SubtractFour.svg": "/MyPortfolio/static/media/SubtractFour.f5488657140db48dc4a17dadf7d157f5.svg",
     "static/media/Subtract.Three.svg": "/MyPortfolio/static/media/Subtract.Three.bce424f6ea24557642097a0b44374aab.svg",
-    "main.c9bb7e38.css.map": "/MyPortfolio/static/css/main.c9bb7e38.css.map",
-    "main.3bd78f30.js.map": "/MyPortfolio/static/js/main.3bd78f30.js.map",
+    "main.961db261.css.map": "/MyPortfolio/static/css/main.961db261.css.map",
+    "main.f936b0b9.js.map": "/MyPortfolio/static/js/main.f936b0b9.js.map",
     "787.d4aba7ab.chunk.js.map": "/MyPortfolio/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9bb7e38.css",
-    "static/js/main.3bd78f30.js"
+    "static/css/main.961db261.css",
+    "static/js/main.f936b0b9.js"
   ]
 }
