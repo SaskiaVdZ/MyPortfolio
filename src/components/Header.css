@@ -5,7 +5,7 @@
   justify-content: space-between;
   background-color: #ff725c;
   padding: 5rem 6rem 5rem 6rem;
-  max-width: 100%;
+  max-width: 1440px;
 }
 
 @media screen and (max-width: 320px) {

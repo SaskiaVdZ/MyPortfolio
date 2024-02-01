@@ -8,6 +8,7 @@
     padding-top: calc(48px + 64px);
     padding-left: 4rem;
     padding-right: 4rem;
+    max-width: 1440px;
 }
 
 

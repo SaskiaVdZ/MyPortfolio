@@ -6,6 +6,7 @@
   padding: 2rem 4rem;
   background-color: #9eebcf;
   padding-top: calc(48px + 64px);
+  max-width: 1440px;
 }
 
 @media screen and (max-width: 768px) {

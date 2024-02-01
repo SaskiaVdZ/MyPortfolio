@@ -5,6 +5,7 @@
   padding: 10px;
   background-color: #ff725c;
   padding-top: calc(48px + 64px);
+  max-width: 1440px;
 }
 
 .parent {

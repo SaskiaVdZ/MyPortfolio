@@ -4,8 +4,9 @@
         flex-direction: column;
         align-items: center;
         padding: 2rem;
-        background-color: #F6FFE;
+        background-color: #F6FFFE;
         padding-top: calc(48px + 64px);
+        max-width: 1440px;
 }
 
 ul {
