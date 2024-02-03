@@ -135,8 +135,7 @@ function Projects() {
         <div className="projectDescription">
           <h2>03 Genesis Portfolio</h2>
           <p>
-            One of the first projects I did. Looking at it now I would have done a lot of things different to be honest; 
-            I think the code looks messy and unorganised. Semantic tags are missing and it's not responsive, because it wasn't part of the assigment. Doing this assignment we learned how to use Sass, using variables and mixins and how to use flexbox and
+            One of the first projects I did. Doing this assignment we learned how to use Sass, using variables and mixins and how to use flexbox and
             grids. A front end project for the Tech for women course at Sundsgården.
           </p>
           <p>Built on: HTML, CSS, Figma</p>
@@ -144,8 +143,8 @@ function Projects() {
         <div className="projectDescription">
           <h2>04 Bhromaon Travel</h2>
           <p>
-            The same here, this is one of the first projects I did. A fully responsive site made within a narrow timeline as part of a test, based on a
-            design in Figma. This was really good practice to stay calm under time pressure and just trying to get as much as possible done step by step. Another front end project for the Tech for women course at Sundsgården.
+            Another early project. A fully responsive site made within a narrow timeline as part of a test, based on a
+            design in Figma. This was really good practice to stay calm under time pressure and just trying to get as much as possible done step by step. A front end project for the Tech for women course at Sundsgården.
           </p>
           <p>Built on: HTML, CSS, Sass, Figma</p>
         </div>

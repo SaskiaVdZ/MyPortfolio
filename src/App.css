@@ -6,6 +6,8 @@
   max-width: 1440px;
   min-width: 320px;
   width: 100%;
+  overflow: hidden;
+  float: none;
 }
 
 
